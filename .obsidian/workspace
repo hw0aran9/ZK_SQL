@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "42a5d30a5b4f3ff0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7554dd766bdeb2a1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e3060f0520c2063",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47588e57a1e96b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e1130e5ede0383",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48f49f839285bc58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2a5772ac2b1e4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0772e3fec352d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e454a873630b535b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7554dd766bdeb2a1",
+  "lastOpenFiles": [
+    "CREATE.md",
+    "REPLACE.md",
+    "COLLATE.md",
+    "TEMPORARY.md",
+    "WITH.md",
+    "TEMP.md",
+    "LOCAL.md",
+    "CASCADED.md",
+    "TABLE.md",
+    "RECURSIVE.md"
+  ]
+}
